@@ -1,4 +1,4 @@
-# mvcPHP
+
 ###registro vendedores
 ![image](https://github.com/BarriosRosalesJosue465/cred_UIII-Act-4-MVC-JGBR/assets/143548449/7ad11834-efea-44f9-b7e1-a9765cbcc1d5)
 ### tabla vendedores
